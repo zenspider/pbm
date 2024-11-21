@@ -543,6 +543,7 @@ DEPENDENCIES
   kt-paperclip
   launchy
   listen
+  minitest
   ostruct
   paper_trail
   paper_trail-association_tracking
